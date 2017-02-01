@@ -9,3 +9,14 @@ E:\VSProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\Wind
 E:\VSProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form2.resources
 E:\VSProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form3.resources
 E:\VSProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form2.resources
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form3.resources
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache

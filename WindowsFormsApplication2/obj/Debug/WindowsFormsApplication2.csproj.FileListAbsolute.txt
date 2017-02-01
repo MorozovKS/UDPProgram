@@ -9,3 +9,6 @@ E:\VSProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Window
 E:\VSProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
 E:\VSProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
 E:\VSProjects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\ASUS\Documents\GitHub\UDPProgram\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
